@@ -75,6 +75,13 @@ a {
     height: 30px;
 }
 
+.hero-section img {
+    width: 100%;
+    min-width: 200px;
+    height: auto;
+    border-radius: 40px;
+}
+
 .information-header {
     text-align: center;
     color: #1f2937;
@@ -129,6 +136,7 @@ a {
 
 .sign-up {
     display: flex;
+    flex: 1;
     justify-content: space-between;
     align-items: center;
     flex: 1;
