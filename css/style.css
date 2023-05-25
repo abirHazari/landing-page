@@ -36,3 +36,40 @@ a {
     font-size: 18px;
 }
 
+.hero-section {
+    display: flex;
+    align-items: center;
+    gap: 30px;
+
+    padding: 10rem;
+    background-color: #1f2937;
+}
+
+.hero-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.hero-text h1 {
+    font-size: 48px;
+    font-weight: 700;
+    color: #f9faf8;
+}
+.hero-text p {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+.hero-text button {
+    font-weight: bold;
+    color: white;
+    background-color: #3882f6;
+    border: 0;
+    border-radius: 8px;
+    text-align: center;
+    cursor: pointer;
+    margin-top: 10px;
+    width: 100px;
+    height: 30px;
+}
