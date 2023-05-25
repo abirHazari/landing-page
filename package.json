@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "index.html": "https://abirHazari.github.io/abir-hazari/",
+  "homepage": "https://abirHazari.github.io/abir-hazari/",
 
   "scripts": {
     "dev": "vite",
