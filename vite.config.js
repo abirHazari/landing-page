@@ -1,4 +1,4 @@
 export default {
 // https://vitejs.dev/config/
-base: "/abir-hazari/"
+base: "/landing-page/"
 }
